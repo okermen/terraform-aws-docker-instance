@@ -3,7 +3,7 @@ variable "instance_type" {
   default     = "t2.micro"
 }
 
-variable name {
+variable key_name {
   type        = string
 }
 
